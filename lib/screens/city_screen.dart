@@ -13,12 +13,7 @@ class _CityScreenState extends State<CityScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('images/city_background.jpg'),
-            fit: BoxFit.cover,
-          ),
-        ),
+        color: Color(0xFF85C6DA),
         constraints: BoxConstraints.expand(),
         child: SafeArea(
           child: Column(
