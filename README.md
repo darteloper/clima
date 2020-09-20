@@ -8,6 +8,8 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 Weather app that will be able to find live weather data on your device's current location as well as the weather for any city you can think of!
 
+<img src="clima.gif" width="300">
+
 ## What you will need
 
 [SDK](https://dart.dev/get-dart), a Software Development Kit of Flutter that gives us the necessary tools to develop multiplatform applications. In addition to using an IDE like [Android Studio](https://developer.android.com/studio/), [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Dart plugin or  [Visual Studio Code](https://code.visualstudio.com/) with the Dart Code extension.
